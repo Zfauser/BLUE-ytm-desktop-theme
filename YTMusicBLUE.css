@@ -1,86 +1,86 @@
-.html, body \{ background: #191970 !important; \}\
-.dislike \{\
-    margin-right: -5px !important;\
-    margin-left:  25px !important;\
-\}\
-.dislike:hover\{\
-    color: tomato;\
-\}\
-.like:hover\{\
-    color: rgb(51, 153, 51);\
-\}\
-\
-.ytmusic-player-page \{\
-     background-color: #191970 !important;\
- \}\
-  .ytmusic-detail-header-renderer\
-  \{\
-    background-color: #191970 !important;\
-  \}\
-    .ytmusic-player-page \{\
-     background-color: #191970 !important;\
-  \}\
-    .ytmusic-nav-bar\
-  \{\
-    background: #191970 !important;\
-\}\
-ytmusic-player-bar #left-controls .previous-button svg path,\
-ytmusic-player-bar #left-controls .next-button svg path \{\
-  fill: black !important;\
-\}\
-ytmusic-player-bar #left-controls .play-pause-button \{\
-  background: #ff5722;\
-  border-radius: 99px;\
-\}\
-ytmusic-player-bar #left-controls .time-info \{\
-  color: black;\
-  font-weight: 500;\
-  font-size: 14px;\
-  margin: 1px 16px 0 20px !important;\
-\}\
-ytmusic-player-bar #right-controls #volume-slider \{\
-  opacity: 0.9 !important;\
-  pointer-events: initial !important;\
-\}\
-ytmusic-player-bar #right-controls #volume-slider #sliderContainer \{\
-  margin: 0 5px !important;\
-\}\
-ytmusic-player-bar #right-controls #volume-slider #primaryProgress \{\
-  background: black !important;\
-\}\
-ytmusic-player-bar #right-controls #volume-slider #sliderKnob .slider-knob-inner \{\
-  background: black !important;\
-\}\
-ytmusic-player-bar #right-controls paper-icon-button iron-icon \{\
-  color: black !important;\
-  fill: black !important;\
-\}\
-ytmusic-player-bar ytmusic-like-button-renderer paper-icon-button,\
-ytmusic-player-bar ytmusic-menu-renderer paper-icon-button \{\
-  color: black !important;\
-  fill: black !important;\
-\}\
-\
-ytmusic-player-page \{\
-  background: #f5f5f5 !important;\
-\}\
-ytmusic-player-page #player-page .ytmusic-player-page \{\
-  background: #f5f5f5 !important;\
-\}\
-ytmusic-player-page paper-tab \{\
-  color: black !important;\
-\}\
-ytmusic-mealbar-promo-renderer \{\
-  background: blue !important;\
-  box-shadow: 0 0px 20px 2px rgba(0, 0, 0, 0.37) !important;\
-  border-radius: 2px !important;\
-\}\
-ytmusic-mealbar-promo-renderer h2 \{\
-  color: black !important;\
-\}\
-ytmusic-player-bar \{\
-    background: #0A43FF !important;\
-  \}\
-  ::-webkit-scrollbar-track \{\
-  background: #191970;\
-\}}
+html, body { background: #191970 !important; }
+.dislike {
+    margin-right: -5px !important;
+    margin-left:  25px !important;
+}
+.dislike:hover{
+    color: tomato;
+}
+.like:hover{
+    color: rgb(51, 153, 51);
+}
+
+.ytmusic-player-page {
+     background-color: #191970 !important;
+ }
+  .ytmusic-detail-header-renderer
+  {
+    background-color: #191970 !important;
+  }
+    .ytmusic-player-page {
+     background-color: #191970 !important;
+  }
+    .ytmusic-nav-bar
+  {
+    background: #191970 !important;
+}
+ytmusic-player-bar #left-controls .previous-button svg path,
+ytmusic-player-bar #left-controls .next-button svg path {
+  fill: black !important;
+}
+ytmusic-player-bar #left-controls .play-pause-button {
+  background: #ff5722;
+  border-radius: 99px;
+}
+ytmusic-player-bar #left-controls .time-info {
+  color: black;
+  font-weight: 500;
+  font-size: 14px;
+  margin: 1px 16px 0 20px !important;
+}
+ytmusic-player-bar #right-controls #volume-slider {
+  opacity: 0.9 !important;
+  pointer-events: initial !important;
+}
+ytmusic-player-bar #right-controls #volume-slider #sliderContainer {
+  margin: 0 5px !important;
+}
+ytmusic-player-bar #right-controls #volume-slider #primaryProgress {
+  background: black !important;
+}
+ytmusic-player-bar #right-controls #volume-slider #sliderKnob .slider-knob-inner {
+  background: black !important;
+}
+ytmusic-player-bar #right-controls paper-icon-button iron-icon {
+  color: black !important;
+  fill: black !important;
+}
+ytmusic-player-bar ytmusic-like-button-renderer paper-icon-button,
+ytmusic-player-bar ytmusic-menu-renderer paper-icon-button {
+  color: black !important;
+  fill: black !important;
+}
+
+ytmusic-player-page {
+  background: #f5f5f5 !important;
+}
+ytmusic-player-page #player-page .ytmusic-player-page {
+  background: #f5f5f5 !important;
+}
+ytmusic-player-page paper-tab {
+  color: black !important;
+}
+ytmusic-mealbar-promo-renderer {
+  background: blue !important;
+  box-shadow: 0 0px 20px 2px rgba(0, 0, 0, 0.37) !important;
+  border-radius: 2px !important;
+}
+ytmusic-mealbar-promo-renderer h2 {
+  color: black !important;
+}
+ytmusic-player-bar {
+    background: #0A43FF !important;
+  }
+  ::-webkit-scrollbar-track {
+  background: #191970;
+}
